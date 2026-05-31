@@ -1,4 +1,1 @@
-Put your demo video here, for example:
-- demo_video.mp4
-
-Or replace this file with a text file containing the YouTube / Google Drive demo video link.
+https://youtu.be/GH4bFtYZauY
